@@ -18,7 +18,7 @@
 1. Клонируйте репозиторий на ваш локальный компьютер:
 
    ```bash
-   git clone https://github.com/yourusername/testVK.git
+   git clone https://github.com/barsskif/test_work_vk.git
 
    ```
 
@@ -50,4 +50,4 @@
 
 ### Авторы
 
-    Перепелюков Андрей Владимирович https://t.me/bars_skif
+    Перепелюков Андрей Владимирович (https://t.me/bars_skif)
