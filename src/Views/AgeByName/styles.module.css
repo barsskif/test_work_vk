@@ -1,0 +1,29 @@
+.formGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.input {
+  border: 1px solid var(--vkui--color_stroke_accent);
+  box-shadow: var(--vkui--elevation3);
+  background: var(--vkui--color_field_background);
+  border-radius: 8px;
+  padding: 12px;
+  max-height: 196px;
+  font-size: 15px;
+  line-height: 20px;
+  color: var(--vkui--color_text_primary);
+}
+
+.input::placeholder {
+  color: var(--vkui--color_tabbar_text_inactive);
+}
+
+.input:focus {
+  outline: none;
+}
+
+.inputError {
+  border: 1px solid red;
+}
